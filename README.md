@@ -226,7 +226,7 @@ $ cat /proc/now
 
 ```bash
 $ echo "thanks for visiting 👾 — happy coding, frens!" && exit 0
-  thanks for visiting 👾 — happy hacking, frens!
+  thanks for visiting 👾 — happy coding, frens!
   [chukite@archlinux ~]$ █
 ```
 
