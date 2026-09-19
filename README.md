@@ -169,7 +169,7 @@ $ htop --filter=life --sort=priority
   008   replying_to_messages               < 1%     1%   DEFERRED ░░░░░
 
 $ cat /proc/now
-  🎵  Listening  →  Fujii Kaze / Tatto Colour / study playlist
+  🎵  Listening  →  Fujii Kaze / Tattoo Colour / study playlist
   📖  Reading    →  "QFT for the Gifted Amateur"  — Lancaster & Blundell
   🎨  Ricing     →  Niri (always ricing)
 ```
